@@ -8,7 +8,8 @@
 
 # 👔 Experience 👔
 - Expansio Software House:  
-⚡ React Native Developer Intern: August 2022 - today
+⚡ React Native Developer Intern: August 2022 - September 2022  
+⚡ Junior React Native Developer: October 2022 - today  
 
 - Narodowe Centrum Promieniowania Synchrotronowego SOLARIS - DUO Department:  
 ⚡ VueJS Developer Intern: July 2022
