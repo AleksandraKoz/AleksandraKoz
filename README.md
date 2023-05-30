@@ -18,6 +18,9 @@
 ⚡ Politechnika Poznańska - IT specialist 2021 – today  
 ⚡ 3 Liceum Ogólnokształcące im. św. Jana Kantego - mat-fiz-inf 2018 – 2021  
 
+# 📈 Stats 📉:
+![AleksandraKoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraKoz&count_private=true&theme=radical)
+
 <!--
 **AleksandraKoz/AleksandraKoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
