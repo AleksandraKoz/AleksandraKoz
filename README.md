@@ -3,6 +3,7 @@
 # ✨ Free time ✨
 😄 Playing video games  
 😄 Basketball  
+😄 Drawing  
 😄 Listening to the music  
 
 
