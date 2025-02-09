@@ -9,7 +9,8 @@
 # 👔 Experience 👔
 - Expansio Software House:  
 ⚡ React Native Developer Intern: August 2022 - September 2022  
-⚡ Junior React Native Developer: October 2022 - today  
+⚡ Junior React Native Developer: September 2022 - September 2024
+⚡ Mid React Native Developer: September 2024 - today
 
 - Narodowe Centrum Promieniowania Synchrotronowego SOLARIS - DUO Department:  
 ⚡ VueJS Developer Intern: July 2022
@@ -41,7 +42,7 @@
 </div>
 
 # 🏫 Education 🏫
-⚡ Politechnika Poznańska - IT specialist 2021 – today  
+⚡ Politechnika Poznańska - IT specialist 2021 – 2025  
 ⚡ 3 Liceum Ogólnokształcące im. św. Jana Kantego - mat-fiz-inf 2018 – 2021  
 
 # 📈 Stats 📉:
